@@ -1,6 +1,6 @@
 <?php 
 
-require_once '../phpdocumentdb.php';
+require_once 'phpdocumentdb.php';
 echo "Hola";
 
 $host = 'https://cosmosdb-blog.documents.azure.com';
