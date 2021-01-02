@@ -41,6 +41,8 @@ $rid = "In4LANe-bbAAAAAAAAAAAA==";
 echo $col->deleteDocument($rid);
 
 ?>
+
+
 <!doctype html>
 <html>
 <head>
