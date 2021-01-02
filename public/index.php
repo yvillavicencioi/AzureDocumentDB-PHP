@@ -3,7 +3,7 @@
 require_once 'phpdocumentdb.php';
 echo "Hola";
 
-$host = 'https://cosmosdb-blog.documents.azure.com';
+$host = 'https://cosmosdb-blog.documents.azure.com:443/';
 $master_key = 'ZahzuWWhgW5bWbErLxKKqjOE7VJgW6gzjVnZsJOLrZBT7qZN5St1nBGEiWKfueKWcbasj4adjZhQVjXyQ1rVrQ==';
 
 // connect DocumentDB
